@@ -1,6 +1,9 @@
 # JSHS-RUN-
 제주과학고를 탈출하는 Mediapipe 기반 동작 인식 러너 게임입니다.
 
+용량이 25MB를 초과해서 구글 드라이브로 첨부하겠습니다.
+https://drive.google.com/file/d/112LMFOcptDkpm80IzKV5RgdVwqs-Sl7I/view?usp=sharing
+
 유니티 게임과 모션 인식 파이썬 프로그램이 개별적으로 작동됩니다.
 유니티 같은 경우는 압축 해제 후 JSHS RUN.exe 를 실행하면 됩니다.
 
